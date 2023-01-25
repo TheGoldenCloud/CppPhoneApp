@@ -1,0 +1,3 @@
+﻿  IndividualyTests.cpp
+C:\Users\batav\source\repos\ConsoleApplication1\IndividualyTests\IndividualyTests.cpp(209,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\batav\source\repos\ConsoleApplication1\IndividualyTests\IndividualyTests.cpp(280,13): error C3861: 'getInt': identifier not found

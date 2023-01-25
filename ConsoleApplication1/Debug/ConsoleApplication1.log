@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\batav\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\batav\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\batav\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

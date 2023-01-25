@@ -1,0 +1,31 @@
+Samsung,Galaxy S10,2020
+Iphone,10,2020
+Nokia,3310,2000
+Samsung,Galaxy S2,2016
+ZTE,Blade,2027
+Samsung,Galaxy S10,2020
+Iphone,10,2020
+Nokia,3310,2000
+Samsung,Galaxy S2,2016
+ZTE,Blade,2027
+Samsung,Galaxy S10,2020
+Iphone,10,2020
+Nokia,3310,2000
+Samsung,Galaxy S2,2016
+ZTE,Blade,2027
+Samsung,Galaxy S10,2020
+Iphone,10,2020
+Nokia,3310,2000
+Samsung,Galaxy S2,2016
+ZTE,Blade,2027
+Samsung,Galaxy S10,2020
+Iphone,10,2020
+Nokia,3310,2000
+Samsung,Galaxy S2,2016
+ZTE,Blade,2027
+Samsung,Galaxy S10,2020
+Iphone,10,2020
+Nokia,3310,2000
+Samsung,Galaxy S2,2016
+ZTE,Blade,2027
+
